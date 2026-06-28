@@ -9,10 +9,11 @@
 This is the Bill of Materials (BOM) for the CHORDION hardware components.
 
 ### 1. Electronic Components
-| Part Name | Specification / Value | Qty | Source / Link | Note |
-| :--- | :--- | :---: | :--- | :--- |
-| Microcontroller | (e.g., Raspberry Pi Pico) | 1 | [Link]() | |
-| Switch | (e.g., Cherry MX Red) | 12 | [Link]() | |
+| Part Name | Specification | Qty | Value | Source / Link | Note |
+| :--- | :--- | :---: | :--- | :--- | :--- |
+| Microcontroller | Teensy4.1 | 1 |  | [Link](https://amzn.asia/d/0gJBUKr6) | |
+| Switch | Kailh Shadow Hunting | 9 | | [Link](https://amzn.asia/d/01fGJeuc) | |
+| OLED | 32x128 | 1 | | [Link](https://amzn.asia/d/0bGwvaTc) | |
 
 ### 2. Mechanical & Structural Parts
 | Part Name | Material / Process | Qty | Source / Link | Note |
@@ -27,10 +28,11 @@ This is the Bill of Materials (BOM) for the CHORDION hardware components.
 CHORDIONのハードウェア部品表（BOM）です。
 
 ### 1. 電子部品
-| 部品名 | 規格・型番 | 数量 | 購入先・リンク | 備考 |
-| :--- | :--- | :---: | :--- | :--- |
-| マイコン | （例：Raspberry Pi Pico） | 1 | [リンク]() | |
-| スイッチ | （例：Cherry MX 赤軸） | 12 | [リンク]() | |
+| 部品名 | 規格・型番 | 数量 | 価格 | 購入先・リンク | 備考 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| マイコン | Teensy4.1 | 1 | | [リンク](https://amzn.asia/d/0gJBUKr6) | |
+| スイッチ | Kailh Shadow Hunting | 9 | | [リンク](https://amzn.asia/d/01fGJeuc) | |
+| OLED | 32x128 | 1 | | [リンク](https://amzn.asia/d/0bGwvaTc) | |
 
 ### 2. 機構・外装部品
 | 部品名 | 材質・加工方法 | 数量 | 購入先・リンク | 備考 |
